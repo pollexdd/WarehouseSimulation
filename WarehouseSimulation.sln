@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WarehouseSimulation", "WarehouseSimulationLibrary\WarehouseSimulationLibrary\WarehouseSimulation.csproj", "{02EF4511-7D1C-4051-ACB9-1D9907D4197F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Simulator", "WarehouseSimulationProgram\WarehouseSimulationProgram\Simulator.csproj", "{3FE7CB53-A50E-4532-8599-6950D4CE61AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02EF4511-7D1C-4051-ACB9-1D9907D4197F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02EF4511-7D1C-4051-ACB9-1D9907D4197F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02EF4511-7D1C-4051-ACB9-1D9907D4197F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02EF4511-7D1C-4051-ACB9-1D9907D4197F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FE7CB53-A50E-4532-8599-6950D4CE61AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FE7CB53-A50E-4532-8599-6950D4CE61AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FE7CB53-A50E-4532-8599-6950D4CE61AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FE7CB53-A50E-4532-8599-6950D4CE61AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E1322FC-86C0-424F-A1F2-5AB8FEAA4EA4}
+	EndGlobalSection
+EndGlobal
